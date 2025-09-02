@@ -8,7 +8,7 @@
         "com.unity.nuget.newtonsoft-json": "3.2.1",
         "com.unity.editorcoroutines": "1.0.0"
       },
-      "hash": "1c6985ff70956a9c4779f284ef3576d117fba88a"
+      "hash": "603e4ac001438e82a8daac41d0916c21771b085a"
     },
     "com.unity.cinemachine": {
       "version": "2.10.3",
