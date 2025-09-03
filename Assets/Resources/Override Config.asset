@@ -15,23 +15,23 @@ MonoBehaviour:
   enableOverrides: 0
   overrides:
   - key: carColor
-    valueType: 4
-    stringValue: '#FFD93D'
-    intValue: 0
-    floatValue: 0
-    boolValue: 0
-    colorValue: {r: 1, g: 1, b: 1, a: 1}
-  - key: useDiamonds
-    valueType: 3
-    stringValue: true
+    valueType: 0
+    stringValue: '#FF000'
     intValue: 0
     floatValue: 0
     boolValue: 0
     colorValue: {r: 0, g: 0, b: 0, a: 0}
   - key: carSpeed
-    valueType: 2
-    stringValue: 50
-    intValue: 0
-    floatValue: 5
+    valueType: 1
+    stringValue: '#FF000'
+    intValue: 25
+    floatValue: 0
+    boolValue: 0
+    colorValue: {r: 0, g: 0, b: 0, a: 0}
+  - key: useDiamonds
+    valueType: 0
+    stringValue: true
+    intValue: 25
+    floatValue: 0
     boolValue: 0
     colorValue: {r: 0, g: 0, b: 0, a: 0}

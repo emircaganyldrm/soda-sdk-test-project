@@ -3151,6 +3151,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5004000302447804479, guid: cf44c09c94383b14bb93e30bb547e1a9, type: 3}
+      propertyPath: initializationType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5271524773545982451, guid: cf44c09c94383b14bb93e30bb547e1a9, type: 3}
       propertyPath: m_Name
       value: SodaInitializer
